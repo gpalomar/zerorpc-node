@@ -1928,7 +1928,7 @@ yn@3.1.1:
   resolved "https://registry.yarnpkg.com/yn/-/yn-3.1.1.tgz#1e87401a09d767c1d5eab26a6e4c185182d2eb50"
   integrity sha512-Ux4ygGWsu2c7isFWe8Yu1YluJmqVhxqK2cLXNQA5AcC3QfbGNpM7fu0Y8b/z16pXLnFxZYvWhd3fhBY9DLmC6Q==
 
-zeromq@5:
+zeromq@^5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/zeromq/-/zeromq-5.2.0.tgz#92eed6baeee5167977e51a2e2360b2c29a3b39fd"
   integrity sha512-qsckhCmrg6et6zrAJytC971SSN/4iLxKgkXK1Wqn2Gij5KXMY+TA+3cy/iFwehaWdU5usg5HNOOgaBdjSqtCVw==
